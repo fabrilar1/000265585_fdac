@@ -16,6 +16,5 @@ contract VariableSimples {
     function devolverEdad() public view returns (uint256) {
         return edad;
     }
-
-
+        
 }
